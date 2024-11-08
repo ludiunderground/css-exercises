@@ -1,0 +1,19 @@
+p {
+    background-color: #dc8888;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.number-2 {
+    font-size: 36px;
+    color: #527fc8
+}
+
+p.number-3 {
+    font-size: 24px;
+}
+
+.number-4 {
+    background-color: #2dec60;
+    font-size: 24px;
+    font-weight: bold;
+}
